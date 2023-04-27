@@ -2,6 +2,7 @@
 .*
 !.arcconfig
 !.gitignore
+!.github
 # Ignore hidden files
 .directory
 
